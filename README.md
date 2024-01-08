@@ -6,6 +6,9 @@ This place is for anyone who loves old styles of writing, calligraphy and typogr
 ## What's Here
 In this repository, there is a list of prompts (instructions) that help the AI create images with historical (and, sometimes, historically-inspired) writing styles.
 
+## Where?
+The prompts are in [prompts.txt](prompts.txt). 
+
 ## Relationship with Ideogram
 This repository operates independently and is not officially associated with Ideogram.ai. Our work is driven by appreciation for their technology and its impact on digital art. (Ideogram, [please don't sue us](LEGAL.md)! 🙏)
 
