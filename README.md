@@ -17,7 +17,7 @@ Using the style tags `typography` and `conceptual art` can give great results. F
 
 ## Tips and Tricks
 
-### Unwanted hands and/or pens
+### Unwanted Human Hands and/or Writing Instruments Appear in Image
 
 In Ideogram v2, Calligraphy and handwriting images are sometimes created as "calligrapher selfies" with hands and pens. Here are a few tactics you can try to steer the AI away from these Instagram-style action shots:
 
@@ -29,7 +29,7 @@ The `poster` tag tends to create framed posters on the initial generation, but t
 
 The hands and pens can be very difficult to get rid of in subsequent generations. You may need to postprocess your image to remove them.
 
-### Heavy texture, discoloration or bleed-through appears on parchment or paper
+### Heavy Texture, Discoloration or Bleed-Through Appear on Parchment or Paper
 
 Adding terms like "even-toned, pristine [paper/vellum/etc.]" can help persuade the AI to 'de-age' the canvas. Adding these terms towards the beginning of the prompt for several generations, then moving them to the normal description, can be useful. "Professionally restored" can be beneficial, too.
 
